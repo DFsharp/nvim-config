@@ -9,5 +9,6 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
-  { "haishanh/night-owl.vim", name = "night-owl" }
+  { "haishanh/night-owl.vim", name = "night-owl" },
+  { "ellisonleao/gruvbox.nvim", name = "gruvbox"}
 }
